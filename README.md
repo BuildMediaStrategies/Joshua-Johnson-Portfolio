@@ -1,78 +1,98 @@
 # Joshua Johnson
-### AI-Native Product Developer · Web Applications · Automation
 
-I build practical digital products by taking business problems from an initial brief through product design, AI-assisted implementation, integration, deployment and iteration.
+**AI-Native Product Developer | Web Applications | Product Prototyping**
 
-My workflow combines full-stack fundamentals with AI coding tools and deliberate technical review. I use AI to accelerate implementation, while focusing on product decisions, system behaviour, data flows, usability and shipping working software.
+I build web applications and business software by taking problems from discovery and product design through AI-assisted implementation, integrations, deployment and iteration.
 
-- **Location:** Kent, United Kingdom
-- **Work:** International remote roles and product-focused engineering
-- **Focus:** React, TypeScript, Firebase, Supabase, API integrations, workflow automation, multi-tenant applications and UI/UX
+My strength is owning the full delivery process: clarifying requirements, shaping user journeys, directing AI coding tools, reviewing implementation, tracing data flows, integrating services and refining the product around real workflows.
 
-## Selected work
+**Based in:** Kent, United Kingdom  
+**Open to:** International remote product and engineering roles  
+**Core stack:** React, TypeScript, JavaScript, Firebase, Supabase, REST APIs, Vite and workflow automation
 
-### SentryX AI · Care operations product
-A care-industry product concept focused on configurable operations for managers and staff.
+## Selected projects
 
-**Work covered:** product definition, interface design, application structure, organisation-level configuration, real-time data flows and role-specific experiences.
+### SentryX AI — Care operations platform
 
-**Engineering focus:** designing the product around separate organisations and user roles, with a single real-time data source.
+A care-industry product concept with distinct manager and staff experiences and organisation-configurable operational data.
 
-**Code:** Private at present. The public SentryX marketing-site repository is not the application source.
+**My contribution**
+- Shaped the product requirements and user journeys for care operations.
+- Built manager and staff interfaces around different roles and workflows.
+- Integrated Firebase Realtime Database for live operational data and organisation-level settings.
+- Worked on multi-organisation separation and configurable setup flows.
 
-### M E Stewart Building Contractors · Client website
-A website delivered for a local building contractor, including service and location pages, contact pathways and lead capture integration.
+**Status:** Private product development. Application source is not public.
 
-**Work covered:** website implementation, local SEO structure, deployment and post-launch updates, including resolving a HubSpot form-rendering issue.
+### M E Stewart Building Contractors — Client website
 
-**Repository:** [M-E-STEWART-WEBSITE](https://github.com/BuildMediaStrategies/M-E-STEWART-WEBSITE)
+A website delivered for a building contractor, designed around service discovery, local search visibility and lead generation.
 
-### BuildMediaStrategies · Agency website
-A marketing website for my own business, focused on web development, SEO and automation services.
+**My contribution**
+- Implemented the website and service/location page structure.
+- Worked on contact pathways and HubSpot lead capture.
+- Managed deployment and post-launch improvements, including resolving a form-rendering issue.
 
-**Work covered:** React application structure, reusable page components, conversion-focused content, SEO improvements and performance-oriented configuration.
+**Code:** [View repository](https://github.com/BuildMediaStrategies/M-E-STEWART-WEBSITE)
 
-**Repository:** [BuildMediaStrategiescursor](https://github.com/BuildMediaStrategies/BuildMediaStrategiescursor)
+### BuildMediaStrategies — Agency website
 
-### Forge · Scaffolding operations prototype
-A product prototype exploring how scaffolding companies could manage jobs, crews, equipment and drawings in one interface.
+A website for my own digital product and marketing business.
 
-**Work covered:** product concept, dashboard and workflow UI, application integration and early-stage implementation.
+**My contribution**
+- Built a multi-page React website with reusable page components.
+- Improved conversion-focused content and local SEO structure.
+- Worked on metadata, sitemap, mobile experience and performance configuration.
 
-**Note:** This is a prototype, not a claim of a fully production-hardened SaaS product. The source repository is being reviewed before it is shared as a code sample.
+**Code:** [View repository](https://github.com/BuildMediaStrategies/BuildMediaStrategiescursor)
 
-### Hamilton Nexus · Recruitment dashboard integration
-A client dashboard project connected to a separate business website, designed to support recruitment operations and centralise information across workflows.
+### Forge — Scaffolding operations prototype
 
-**Work covered:** dashboard implementation, authentication flow, Supabase integration and connecting the website and dashboard.
+A product prototype exploring a unified workspace for scaffolding jobs, crews, equipment and drawings.
 
-**Note:** The source is not linked here while its access policies and client-specific configuration are reviewed.
+**My contribution**
+- Defined product workflows and dashboard structure.
+- Built interface flows for jobs, equipment, gangs and drawings.
+- Integrated Supabase during prototype development.
 
-## How I work
+**Status:** Prototype. This is not presented as a production-hardened SaaS product. The repository is not currently recommended as a public code sample.
 
-1. **Define the problem:** turn a brief or operational problem into clear user journeys and requirements.
-2. **Design the product:** plan information architecture, UI states, navigation and responsive behaviour.
-3. **Build with AI-assisted tools:** use AI coding agents to accelerate implementation while reviewing generated changes.
-4. **Integrate systems:** connect front ends to databases, authentication, APIs and automation workflows.
-5. **Test and iterate:** investigate errors, refine the experience and improve the product based on observed behaviour.
+### Hamilton Nexus — Recruitment dashboard integration
+
+A recruitment dashboard project built to support operational workflows and connect with a separate client website.
+
+**My contribution**
+- Built dashboard interfaces for recruitment-related workflows.
+- Integrated Supabase data access and authentication flows.
+- Worked across the website/dashboard boundary to support the required client workflow.
+
+**Status:** Client-specific implementation. The source is not featured here while its configuration and access model are reviewed.
+
+## How I deliver
+
+1. **Product thinking:** translate an ambiguous brief into requirements, user journeys and practical scope.
+2. **UX and interface design:** structure navigation, screens, forms and responsive states around the user’s workflow.
+3. **AI-native implementation:** use coding agents to accelerate development, while reviewing changes and investigating defects.
+4. **System integration:** connect interfaces with databases, authentication, APIs and automation tools.
+5. **Iteration:** test flows, resolve issues and improve the product after deployment.
 
 ## Technical toolkit
 
 - **Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS
 - **Data and backend services:** Firebase, Supabase, SQL-backed data models
-- **Integrations:** REST APIs, authentication, form/CRM integrations, n8n
-- **Product delivery:** UI/UX, responsive interfaces, debugging, deployment, SEO and performance optimisation
-- **Development workflow:** AI coding agents, advanced prompt engineering, Git and iterative delivery
+- **Integration:** REST APIs, authentication, CRM/forms, n8n
+- **Delivery:** UI/UX, debugging, deployment, local SEO and performance optimisation
+- **Workflow:** AI coding agents, advanced prompt engineering, Git and iterative delivery
 
-## About the code
+## Working approach
 
-This portfolio highlights my role in product delivery, rather than suggesting every project is an entirely original open-source codebase. Some projects are client work, prototypes or use third-party libraries and starter foundations. Where a repository is not shared, the reason is client configuration, security review or private product development.
+I use AI-assisted development as an implementation workflow, not as a substitute for product ownership. I focus on understanding what is being built, how the pieces connect, whether the user journey works and what needs to be checked before release.
 
-I am continuing to improve the public code samples. I do not present prototype work as production-hardened software, and I aim to document important technical decisions and known limitations clearly.
+Some work shown here is client-owned, private or at prototype stage. I distinguish those projects from public code samples and do not claim third-party starter code or open-source work as my own.
 
 ## Contact
 
 - **GitHub:** [BuildMediaStrategies](https://github.com/BuildMediaStrategies)
-- **Website:** [BuildMediaStrategies](https://buildmediastrategies.co.uk)
+- **Business website:** [BuildMediaStrategies](https://buildmediastrategies.co.uk)
 
-For a role or technical discussion, contact me through my CV.
+For applications, see the contact details on my CV.
