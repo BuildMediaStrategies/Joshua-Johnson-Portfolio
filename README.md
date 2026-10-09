@@ -33,7 +33,7 @@ A website delivered for a building contractor, designed around service discovery
 - Worked on contact pathways and HubSpot lead capture.
 - Managed deployment and post-launch improvements, including resolving a form-rendering issue.
 
-**Code:** [View repository](https://github.com/BuildMediaStrategies/M-E-STEWART-WEBSITE)
+**Code:** Not linked here while the client repository's AI integration and deployment configuration are reviewed.
 
 ### BuildMediaStrategies — Agency website
 
